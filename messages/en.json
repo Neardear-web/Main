@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "name": "NearDear"
+  },
+  "hero": {
+    "receiver_headline": "Your parents are alone back home?",
+    "receiver_subheadline": "Find a verified NearDear companion in their city.",
+    "receiver_cta": "Find a NearDear",
+    "provider_headline": "Skill, empathy and time are with you?",
+    "provider_subheadline": "Contribute as a NearDear Companion. The portal pays 80% of every session directly to you.",
+    "provider_cta": "Start Contributing",
+    "provider_earnings": "See what you can earn"
+  },
+  "trust": {
+    "signal1": "All companions strictly verified",
+    "signal2": "80% earnings paid directly to every companion",
+    "signal3": "Family notified after every session"
+  },
+  "services": {
+    "elder_visit": "Elder Support Visit",
+    "check_on_parents": "Check-on-Parents",
+    "companion_visit": "Companion Visit",
+    "medicine_pickup": "Medicine Pickup Help",
+    "hospital_help": "Hospital Guidance Help",
+    "bank_help": "Bank Work Help",
+    "govt_office": "Government Office Help",
+    "document_help": "Document Help",
+    "property_visit": "Property Visit Help",
+    "talk_support": "Talk / Emotional Support",
+    "student_support": "Student Support — New City",
+    "grief_companion": "Grief Companion",
+    "travel_assist": "Travel Assistance",
+    "event_assist": "Event Assistance"
+  },
+  "request": {
+    "who_needs_help": "Who needs help today?",
+    "describe_need": "Describe what you need in your own words...",
+    "for_myself": "For myself",
+    "for_parent": "For my parent / elder family member",
+    "for_someone": "For someone else",
+    "select_city": "In which city is the service needed?",
+    "select_services": "What kind of help is needed?",
+    "submit": "Find a Companion"
+  },
+  "session": {
+    "check_in": "CHECK IN",
+    "check_out": "CHECK OUT",
+    "submit_note": "Submit Session Note",
+    "what_done": "What did you help with today?",
+    "how_person": "How was the person?",
+    "family_note": "Any observation for the family?",
+    "concern": "Any concern to flag?"
+  },
+  "earnings": {
+    "this_month": "This Month",
+    "total_earned": "Total Earned",
+    "withdraw": "Withdraw to Bank",
+    "pending": "Pending Release",
+    "sessions": "Sessions Completed"
+  },
+  "nav": {
+    "home": "Home",
+    "requests": "Requests",
+    "sessions": "Sessions",
+    "earnings": "Earnings",
+    "profile": "Profile",
+    "help": "Help"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "notifications": {
+    "new_request": "New request near you — Ready to serve?",
+    "request_accepted": "has accepted your request",
+    "session_checkin": "has arrived. Session started at",
+    "session_complete": "Session complete. Read the note",
+    "payment_released": "added to your wallet"
+  },
+  "errors": {
+    "required_field": "This field is required",
+    "invalid_phone": "Please enter a valid phone number",
+    "otp_expired": "OTP has expired. Please request a new one",
+    "otp_invalid": "Invalid OTP. Please try again",
+    "city_not_active": "NearDear is not yet active in this city",
+    "no_companions": "No companions available in this area yet",
+    "session_failed": "Something went wrong. Please try again",
+    "generic": "Something went wrong. Please try again"
+  }
+}

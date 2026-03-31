@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "name": "નિયરડિયર"
+  },
+  "hero": {
+    "receiver_headline": "તમારા માતા-પિતા ઘરે એકલા છે?",
+    "receiver_subheadline": "તેમના શહેરમાં વિશ્વસનીય નિયરડિયર સાથી શોધો.",
+    "receiver_cta": "નિયરડિયર શોધો",
+    "provider_headline": "તમારી પાસે કૌશલ્ય, સહાનુભૂતિ અને સમય છે?",
+    "provider_subheadline": "નિયરડિયર સાથી બનો. પ્લેટફોર્મ દરેક સેવાની 80% આવક સીધી તમને ચૂકવે છે.",
+    "provider_cta": "શરૂ કરો",
+    "provider_earnings": "તમે કેટલું કમાઈ શકો છો તે જુઓ"
+  },
+  "trust": {
+    "signal1": "બધા સાથીઓ કડક ચકાસણી કરાયેલ",
+    "signal2": "80% કમાણી સીધી દરેક સાથીને",
+    "signal3": "દરેક મુલાકાત પછી પરિવારને જાણ"
+  },
+  "services": {
+    "elder_visit": "વડીલ સહાય મુલાકાત",
+    "check_on_parents": "માતા-પિતાની ખબર",
+    "companion_visit": "સાથ-સંગ મુલાકાત",
+    "medicine_pickup": "દવા લાવવાની મદદ",
+    "hospital_help": "હોસ્પિટલ માર્ગદર્શન",
+    "bank_help": "બેંક કામ સહાય",
+    "govt_office": "સરકારી કચેરી સહાય",
+    "document_help": "દસ્તાવેજ સહાય",
+    "property_visit": "મિલકત મુલાકાત",
+    "talk_support": "વાત / ભાવનાત્મક સહાય",
+    "student_support": "નવા શહેરમાં વિદ્યાર્થી સહાય",
+    "grief_companion": "દુઃખ સમયે સાથ",
+    "travel_assist": "પ્રવાસ સહાય",
+    "event_assist": "કાર્યક્રમ સહાય"
+  },
+  "request": {
+    "who_needs_help": "આજે કોને મદદ જોઈએ છે?",
+    "describe_need": "તમારી જરૂરિયાત તમારા શબ્દોમાં જણાવો...",
+    "for_myself": "મારા માટે",
+    "for_parent": "મારા માતા-પિતા / વડીલ સ્વજન માટે",
+    "for_someone": "બીજા કોઈ માટે",
+    "select_city": "સેવા ક્યા શહેરમાં જોઈએ છે?",
+    "select_services": "કેવા પ્રકારની મદદ જોઈએ છે?",
+    "submit": "સાથી શોધો"
+  },
+  "session": {
+    "check_in": "હાજર થયા",
+    "check_out": "વિદાય",
+    "submit_note": "સત્ર નોંધ સુપ્રત કરો",
+    "what_done": "આજે તમે શું મદદ કરી?",
+    "how_person": "વ્યક્તિ કેવા હતા?",
+    "family_note": "પરિવાર માટે કોઈ નોંધ?",
+    "concern": "કોઈ ચિંતાની વાત?"
+  },
+  "earnings": {
+    "this_month": "આ મહિને",
+    "total_earned": "કુલ કમાણી",
+    "withdraw": "બેંકમાં ઉપાડ",
+    "pending": "બાકી રકમ",
+    "sessions": "પૂર્ણ સત્રો"
+  },
+  "nav": {
+    "home": "હોમ",
+    "requests": "વિનંતીઓ",
+    "sessions": "સત્રો",
+    "earnings": "કમાણી",
+    "profile": "પ્રોફાઇલ",
+    "help": "મદદ"
+  },
+  "common": {
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "confirm": "પુષ્ટિ કરો",
+    "back": "પાછળ",
+    "next": "આગળ",
+    "submit": "સુપ્રત કરો",
+    "yes": "હા",
+    "no": "ના",
+    "or": "અથવા",
+    "required": "જરૂરી",
+    "optional": "વૈકલ્પિક"
+  },
+  "notifications": {
+    "new_request": "તમારી નજીક નવી વિનંતી — સેવા આપવા તૈયાર છો?",
+    "request_accepted": "એ તમારી વિનંતી સ્વીકારી",
+    "session_checkin": "પહોંચ્યા. સત્ર શરૂ થયું",
+    "session_complete": "સત્ર પૂર્ણ. નોંધ વાંચો",
+    "payment_released": "તમારા વૉલેટમાં ઉમેરાયું"
+  },
+  "errors": {
+    "required_field": "આ ક્ષેત્ર જરૂરી છે",
+    "invalid_phone": "કૃપા કરી માન્ય ફોન નંબર દાખલ કરો",
+    "otp_expired": "OTP ની મુદત પૂરી થઈ. નવો OTP મંગાવો",
+    "otp_invalid": "અમાન્ય OTP. ફરી પ્રયાસ કરો",
+    "city_not_active": "NearDear હજી આ શહેરમાં ઉપલબ્ધ નથી",
+    "no_companions": "આ વિસ્તારમાં હજી કોઈ સાથી ઉપલબ્ધ નથી",
+    "session_failed": "કંઈક ખોટું થયું. ફરી પ્રયાસ કરો",
+    "generic": "કંઈક ખોટું થયું. ફરી પ્રયાસ કરો"
+  }
+}

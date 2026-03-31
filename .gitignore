@@ -38,3 +38,14 @@ yarn-error.log*
 next-env.d.ts
 
 /src/generated/prisma
+
+# Local Netlify folder
+.netlify
+
+# Claude Code memory & session files
+.claude/
+
+# Local documents
+*.docx
+*.zip
+takeout-*.zip
